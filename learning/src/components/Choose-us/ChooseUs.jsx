@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Container, Row, Col } from "reactstrap";
 
-import chooseImg from "../../assests/images/why-choose-us.png";
+import chooseImg from "../../assets/images/choose-img.png";
 import "./choose-us.css";
 
 import ReactPlayer from "react-player";
