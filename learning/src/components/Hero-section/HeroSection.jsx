@@ -21,7 +21,7 @@ const HeroSection = () => {
             </div>
             <div className="search">
               <input type="text" placeholder="Search" />
-              <button className="btn">Search</button>
+              <button className="search__btn">Search</button>
             </div>
           </Col>
 
