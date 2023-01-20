@@ -18,7 +18,7 @@ const Testimonials = () => {
     slidesToScroll: 1,
   };
   return (
-    <section>
+    <section className="testimonials__container">
       <Container>
         <Row>
           <Col lg="10" md="12" className="m-auto">

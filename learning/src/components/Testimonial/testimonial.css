@@ -1,3 +1,7 @@
+.testimonials__container {
+    padding-top: 55px;
+}
+
 .testimonial__content h2 {
     font-weight: 600;
 }
