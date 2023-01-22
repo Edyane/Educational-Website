@@ -48,7 +48,7 @@ const footerInfoLinks = [
 const Footer = () => {
   return (
     <footer className="footer">
-      <Container>
+      <Container className="footer__container">
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">

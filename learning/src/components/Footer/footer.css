@@ -2,6 +2,10 @@
     background: rgba(226, 248, 248, 0.664);
 }
 
+.footer__container {
+    padding-top: 60px;
+}
+
 .follows span a {
     text-decoration: none;
 }
