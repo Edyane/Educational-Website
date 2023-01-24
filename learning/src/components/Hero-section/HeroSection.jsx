@@ -11,7 +11,7 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+                Anytime Anywhere <br /> <span className="learn__text">Learn</span> on your <br /> Suitable Schedule
               </h2>
               <p className="mb-5">
                 Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.

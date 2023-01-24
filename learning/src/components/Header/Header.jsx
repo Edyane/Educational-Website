@@ -53,7 +53,7 @@ const Header = () => {
             </div>
 
             <div className="nav__right">
-              <p className="mb-0 d-flex align-items-center gap-2">
+              <p className="mb-0 d-flex align-items-center gap-2 teste">
                 <i class="ri-phone-line"></i> +88 0123456789
               </p>
             </div>
