@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import { Container, Row, Col } from "reactstrap";
-import aboutImg from "../../assets/images/about-us.png";
+import aboutImg from "../../assets/images/about-us.jpg";
 import CountUp from "react-countup";
 import "./about.css";
 
@@ -18,7 +18,7 @@ const AboutUs = () => {
 
           <Col lg="6" md="6">
             <div className="about__content">
-              <h2>About Us</h2>
+              <h2 className="title">About Us</h2>
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Excepturi cupiditate animi deserunt libero nesciunt corporis
