@@ -1,7 +1,11 @@
+.about__container {
+    padding-top: 35px;
+}
+
 .counter {
     font-size: 2rem;
     font-weight: 600;
-    color: #0d397b;
+    color: #1363DF;
 }
 
 .counter__title {
