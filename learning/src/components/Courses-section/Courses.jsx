@@ -43,7 +43,7 @@ const Courses = () => {
           <Col lg="12" className="mb-5">
             <div className="course__top d-flex justify-content-between align-items-center">
               <div className="course__top__left w-50">
-                <h2>Our Popular Courses</h2>
+                <h2 className="title">Our Popular Courses</h2>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
                   consequatur libero quod voluptatibus ullam quia quas, vitae
@@ -52,7 +52,7 @@ const Courses = () => {
               </div>
 
               <div className="w-50 text-end">
-                <button className="btn">See All</button>
+                <button className="see__btn">See All</button>
               </div>
             </div>
           </Col>

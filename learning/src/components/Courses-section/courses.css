@@ -1,3 +1,16 @@
+.title {
+    color: #1363DF;
+}
+
+.see__btn {
+    background-color: #1363DF;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    width: 90px;
+    height: 40px;
+}
+
 .single__course__item {
     padding: 15px;
 }
@@ -11,7 +24,7 @@
     text-decoration: none;
     font-weight: 600;
     font-size: 0.9rem;
-    color: #17bf9e;
+    color: #1363DF;
 }
 
 .lesson,
