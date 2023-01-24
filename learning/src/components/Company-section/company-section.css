@@ -1,3 +1,14 @@
 .company__container {
     padding: 80px 90px;
 }
+
+
+
+.ri-vimeo-line, 
+.ri-pinterest-line,
+.ri-dribbble-line,
+.ri-apple-fill, 
+.ri-finder-fill, 
+.ri-google-fill {
+    color: #1363DF;
+}
