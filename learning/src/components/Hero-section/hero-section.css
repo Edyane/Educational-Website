@@ -22,7 +22,7 @@
 
 .search {
   width: 60%;
-  border: 1px solid #1ab59644;
+  border: 1px solid #05112383;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -31,7 +31,7 @@
 }
 
 .search__btn {
-  background-color: #17bf9e;
+  background-color: #1363DF;
   color: #fff;
   border: none;
   border-radius: 50px;
