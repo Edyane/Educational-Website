@@ -40,10 +40,10 @@ const Company = () => {
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h2 className=" d-flex align-items-center gap-1">
+            <h3 className=" d-flex align-items-center gap-1">
               {" "}
               <i class="ri-google-fill"></i> Google
-            </h2>
+            </h3>
           </Col>
         </Row>
       </Container>
