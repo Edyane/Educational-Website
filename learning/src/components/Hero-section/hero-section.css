@@ -1,3 +1,7 @@
+.hero__title {
+  color: rgb(36, 36, 36);
+}
+
 .hero__content h2 {
   font-size: 45px;
   font-weight: 700;
