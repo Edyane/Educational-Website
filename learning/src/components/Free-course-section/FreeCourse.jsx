@@ -44,7 +44,7 @@ const freeCourseData = [
 
 const FreeCourse = () => {
   return (
-    <section>
+    <section className="free__container">
       <Container>
         <Row>
           <Col lg="12" className="text-center mb-5">
