@@ -4,7 +4,7 @@ import { Container, Row, Col } from "reactstrap";
 
 const Newsletter = () => {
   return (
-    <section>
+    <section className="newsletter__section">
       <Container className="newsletter">
         <Row>
           <Col lg="12" className="text-center">
