@@ -48,7 +48,7 @@ const FreeCourse = () => {
       <Container>
         <Row>
           <Col lg="12" className="text-center mb-5">
-            <h2 className="fw-bold">Our Free Courses</h2>
+            <h2>Our Free Courses</h2>
           </Col>
 
           {freeCourseData.map((item) => (
