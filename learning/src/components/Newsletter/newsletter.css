@@ -26,3 +26,13 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.subscribe__btn {
+    background-color: #1363DF;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    width: 30%;
+    height: 35px;
+}
+   
