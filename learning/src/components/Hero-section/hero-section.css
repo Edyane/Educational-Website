@@ -12,6 +12,12 @@
   padding-top: 80px;
 }
 
+.hero__img {
+  padding-top: 25px;
+  margin-left: 105px;
+  width: 520px;
+}
+
 .learn__text {
   color: #1363DF;
 }
